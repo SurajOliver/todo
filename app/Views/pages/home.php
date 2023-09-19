@@ -1,0 +1,2 @@
+<h1>Inside home page</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem facere sed voluptatem esse! Quam cumque quod fugiat maiores veritatis optio dolorem nesciunt numquam alias minima ad laudantium eum sunt voluptatum rerum omnis quasi, excepturi ab non adipisci et pariatur. Deserunt, libero vitae? Animi iure autem provident temporibus illo! Inventore, tempora.</p>
