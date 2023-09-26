@@ -1,6 +1,6 @@
 ## Database.sql
 mysql -u root -p
-
+sunshade
 
 CREATE DATABASE personaldb;
 

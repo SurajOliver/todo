@@ -31,7 +31,7 @@ class Tasks extends BaseController
             'status' => 'required'
         ];
 
-        if($this->request->getMethod() == 'post'):
+        if($this->request->getPost()):
             if($this->validate($task_rule)){
                 $model = new TasksModel();
                 $taskData = array(

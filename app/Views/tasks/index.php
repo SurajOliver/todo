@@ -1,8 +1,23 @@
+<div class="main-title">
+    <div class="show-on-mobile">
+        <div class="row">
+            <h2 class="title">Admin App</h2>
+            <input type="button" class="button primary" value="Anadir Nueva">
+        </div>
+        <input type="search" class="input" name="search" id="search" value="Buscar">
+    </div>
+    <div class="hide-on-mobile">
+        <div class="row">
+            <h2 class="title">Admin App</h2>
+            <input type="search" class="input" name="search" id="search" value="Buscar">
+            <input type="button" class="button primary" value="Anadir Nueva">
+        </div>
+    </div>
+</div>
 
-<div class="container">
-    <div class="row">
-        <div class="col-md-10 ">
-            <h2>CRUD App</h2>
+
+<div class="row">
+        <div class="col-md-10">
             <div class="my-3">
                 <a href="<?php echo base_url('tasks/create')?>" class="btn btn-primary"><i class="fa-solid fa-plus"></i>&nbsp;Create News</a>
             </div>
@@ -52,8 +67,5 @@
                     <?php endforeach; ?>
                 </tbody>
             </table>
-
-
         </div>
     </div>
-</div>
